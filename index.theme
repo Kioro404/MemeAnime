@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=MemeAnime
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
